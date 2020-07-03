@@ -1,0 +1,10 @@
+Variable
+  nombreSaisi
+
+DEBUT
+  Lire un entier nombreSaisi
+  
+  Imprimer nombreSaisi de fois la phrase "Bienvenue à la wild"
+  
+FIN
+
